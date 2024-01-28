@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "membershipType": "Basic",
+      "duration": "1 month",
+      "price": 30.00,
+      "features": [
+        "Access to cardio area",
+        "Basic workout equipment",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "membershipType": "Premium",
+      "duration": "3 months",
+      "price": 80.00,
+      "features": [
+        "Full gym access",
+        "Group fitness classes",
+        "Personal trainer consultation"
+      ]
+    },
+    {
+      "id": 3,
+      "membershipType": "VIP",
+      "duration": "6 months",
+      "price": 150.00,
+      "features": [
+        "VIP lounge access",
+        "24/7 gym access",
+        "Free smoothie bar"
+      ]
+    }
+  ]
+  
